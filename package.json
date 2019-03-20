@@ -1,5 +1,5 @@
 {
-  "name": "component-library",
+  "name": "angular-dialog",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
